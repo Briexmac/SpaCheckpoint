@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\Checkpoint1v1\Checkpoint1v1\obj\Debug\netcoreapp2.1\Checkpoint1v1.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Checkpoint1v1\Checkpoint1v1\obj\Debug\netcoreapp2.1\Checkpoint1v1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Checkpoint1v1\Checkpoint1v1\obj\Debug\netcoreapp2.1\Checkpoint1v1.RazorAssemblyInfo.cache
+\\Mac\Home\Desktop\Checkpoint1v1\Checkpoint1v1\obj\Debug\netcoreapp2.1\Checkpoint1v1.RazorAssemblyInfo.cs
+\\Mac\Home\Desktop\Checkpoint1v1\Checkpoint1v1\obj\Debug\netcoreapp2.1\Checkpoint1v1.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Checkpoint1v1\Checkpoint1v1\obj\Debug\netcoreapp2.1\Checkpoint1v1.AssemblyInfo.cs
